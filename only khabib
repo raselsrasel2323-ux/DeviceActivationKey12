@@ -47,6 +47,12 @@
         "expirydate": "30-08-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "cbcfb34338a81724",
+        "key": "9000",
+        "expirydate": "30-08-2025",
+        "Allowoffline": false
+    },
 
 
 ]
