@@ -10,7 +10,7 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    }'
 
     {
         "device_id": "4616f5c34502d4c0",
@@ -23,7 +23,7 @@
         "key": "9641",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    }'
 {
         "device_id": "i8",
         "key": "222",
@@ -35,7 +35,7 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    }'
 
 {
         "device_id": "68",
@@ -44,9 +44,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "89",
+        "device_id": "cbcfb34338a81724",
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    }
+    }'
 ]
