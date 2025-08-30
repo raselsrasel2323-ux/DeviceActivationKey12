@@ -77,5 +77,11 @@
         "expirydate": "03-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "db7530ae49fb2673",
+        "key": "free",
+        "expirydate": "03-09-2025",
+        "Allowoffline": false
+    },
 ]
 
