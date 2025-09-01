@@ -107,6 +107,12 @@
         "expirydate": "1-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "e7449b02a96bcd48",
+        "key": "77",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
