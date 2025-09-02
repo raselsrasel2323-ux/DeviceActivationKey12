@@ -209,6 +209,18 @@
         "expirydate": "04-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "cbbe3c00aa256aeb",
+        "key": "5",
+        "expirydate": "04-09-2025",
+        "Allowoffline": false
+    },    
+    {
+        "device_id": "09ff96a11f350612",
+        "key": "4k",
+        "expirydate": "04-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
