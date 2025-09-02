@@ -137,6 +137,12 @@
         "expirydate": "05-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "8i3j",
+        "key": "9986",
+        "expirydate": "05-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
