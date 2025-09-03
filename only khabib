@@ -257,6 +257,12 @@
         "expirydate": "05-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "7a2e643c72850870",
+        "key": "r980",
+        "expirydate": "06-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
