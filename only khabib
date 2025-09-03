@@ -251,6 +251,12 @@
         "expirydate": "05-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "2c9d1009119f51a3",
+        "key": "r90",
+        "expirydate": "05-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
