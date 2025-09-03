@@ -299,6 +299,12 @@
         "expirydate": "04-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "79dd5967b2cb9798",
+        "key": "222",
+        "expirydate": "04-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
