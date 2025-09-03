@@ -221,6 +221,12 @@
         "expirydate": "04-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "cd3fefa283490e06",
+        "key": "rai8",
+        "expirydate": "04-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
