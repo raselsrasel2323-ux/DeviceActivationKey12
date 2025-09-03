@@ -245,6 +245,12 @@
         "expirydate": "05-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "5f0d62d8fec699da",
+        "key": "r98",
+        "expirydate": "05-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
