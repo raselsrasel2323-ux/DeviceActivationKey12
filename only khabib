@@ -26,7 +26,7 @@
     {
         "device_id": "3b3cb06b4e95a16e",
         "key": "habibur",
-        "expirydate": "1-10-2025",
+        "expirydate": "4-10-2025",
         "Allowoffline": false
     },
     {
@@ -325,15 +325,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "i8",
-        "key": "key",
+        "device_id": "ed44c79fc0db1907",
+        "key": "mia1",
         "expirydate": "05-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "i8iw",
         "key": "key",
-        "expirydate": "06-09-2025",
+        "expirydate": "15-09-2025",
         "Allowoffline": false
     },
 ]
