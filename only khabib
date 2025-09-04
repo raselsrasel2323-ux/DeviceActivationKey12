@@ -339,25 +339,25 @@
     {
         "device_id": "4616f5c34502d4c0",
         "key": "77",
-        "expirydate": "06-10-2025",
+        "expirydate": "06-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "756ab9cdd1f2e325",
         "key": "767",
-        "expirydate": "06-10-2025",
+        "expirydate": "06-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "87e56e56312318d2",
         "key": "07",
-        "expirydate": "06-10-2025",
+        "expirydate": "06-09-2025",
         "Allowoffline": false
     },
     {
-        "device_id": "816b5aba6272a04b",
+        "device_id": "756ab9cdd1f2e325",
         "key": "077",
-        "expirydate": "06-10-2025",
+        "expirydate": "06-09-2025",
         "Allowoffline": false
     },
 ]
