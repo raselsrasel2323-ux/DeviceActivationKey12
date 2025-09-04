@@ -24,7 +24,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "9d83eb5c3db646e4",
+        "device_id": "3b3cb06b4e95a16e",
         "key": "habibur",
         "expirydate": "1-10-2025",
         "Allowoffline": false
@@ -321,6 +321,18 @@
     {
         "device_id": "3c527e2b34eb8012",
         "key": "noor1",
+        "expirydate": "06-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "i8",
+        "key": "key",
+        "expirydate": "05-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "i8iw",
+        "key": "key",
         "expirydate": "06-09-2025",
         "Allowoffline": false
     },
