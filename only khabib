@@ -408,6 +408,12 @@
         "expirydate": "09-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "aed0fd8be746fee4",
+        "key": "06",
+        "expirydate": "09-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
