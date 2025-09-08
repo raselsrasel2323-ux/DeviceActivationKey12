@@ -420,6 +420,12 @@
         "expirydate": "11-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "c983328d67d0c889",
+        "key": "86t",
+        "expirydate": "11-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
