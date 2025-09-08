@@ -432,6 +432,12 @@
         "expirydate": "11-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "39632f773fa69ad9",
+        "key": "86t47",
+        "expirydate": "11-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
