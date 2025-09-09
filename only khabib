@@ -456,6 +456,12 @@
         "expirydate": "09-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "b81c2ea0f6726f87",
+        "key": "chikun",
+        "expirydate": "23-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
