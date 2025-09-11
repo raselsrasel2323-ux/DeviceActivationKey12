@@ -486,6 +486,12 @@
         "expirydate": "13-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "ced486736206c228",
+        "key": "10",
+        "expirydate": "12-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
