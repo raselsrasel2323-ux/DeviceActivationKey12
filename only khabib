@@ -498,6 +498,12 @@
         "expirydate": "14-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "b81c2ea0f6726f87",
+        "key": "1011",
+        "expirydate": "15-09-2025",
+        "Allowoffline": false
+    },
 ]
 
 
