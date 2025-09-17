@@ -510,7 +510,12 @@
         "expirydate": "23-11-2025",
         "Allowoffline": false
     },
-]
+    {
+        "device_id": "22df2f84272b8fcd",
+        "key": "sunit87",
+        "expirydate": "23-11-2025",
+        "Allowoffline": false
+    },
 
 ]
 
