@@ -541,6 +541,12 @@
         "expirydate": "23-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "42cd8145cc5d47d3",
+        "key": "Nad",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
+    },
 ]
 
 
