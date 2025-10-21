@@ -535,6 +535,12 @@
         "expirydate": "29-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "80dab9f1e07b776c",
+        "key": "Nadeem",
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
+    },
 ]
 
 
