@@ -553,6 +553,12 @@
         "expirydate": "25-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "09acf5a4f9055e7b",
+        "key": "akbar",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
+    },
 ]
 
 
